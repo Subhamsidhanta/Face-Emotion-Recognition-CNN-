@@ -177,17 +177,4 @@ python realtimedetection.py
 
 Controls:
 - Press `q` to quit.
-
-## Troubleshooting
-
-- **Webcam doesn’t open**: change `cv2.VideoCapture(0)` to `cv2.VideoCapture(1)` (or another index).
-- **Model file missing**: train with `trainmodels.ipynb` or place `emotiondetector.pth` in the root folder.
-- **Import errors for `torchvision` / `PIL`**: install with `pip install torchvision pillow`.
-
-## Notes
-
-- The dataset folder is intentionally excluded from git (`images/` in `.gitignore`).
-- If you plan to publish this repo, avoid committing large datasets and Kaggle ZIPs.
-
-
-
+
