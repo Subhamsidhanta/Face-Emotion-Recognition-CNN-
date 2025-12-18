@@ -165,7 +165,6 @@ If you prefer downloading the trained model and watching the demo without runnin
 - **Trained PyTorch weights (`emotiondetector.pth`)**: [link](https://drive.google.com/file/d/1uFBWMcoYQR8ASM16NAC1YzQv2K-PRmxj/view?usp=drive_link) 
 - **Demo video**: <PASTE_GOOGLE_DRIVE_LINK_HERE>
 - **Dataset**: [link](https://drive.google.com/file/d/1ABVPPBUzR_RwG09kGCjhY8t5DrE4RDSD/view?usp=sharing)
-Tip: set Google Drive sharing to **“Anyone with the link can view”**.
 
 ## Real-time Webcam Demo
 
