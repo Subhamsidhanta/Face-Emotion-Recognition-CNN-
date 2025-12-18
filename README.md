@@ -162,7 +162,7 @@ If you don’t need TensorFlow specifically, use the PyTorch notebook instead.
 
 If you prefer downloading the trained model and watching the demo without running training locally:
 
-- **Trained PyTorch weights (`emotiondetector.pth`)**: <PASTE_GOOGLE_DRIVE_LINK_HERE>
+- **Trained PyTorch weights (`emotiondetector.pth`)**: https://drive.google.com/file/d/1uFBWMcoYQR8ASM16NAC1YzQv2K-PRmxj/view?usp=drive_link 
 - **Demo video**: <PASTE_GOOGLE_DRIVE_LINK_HERE>
 
 Tip: set Google Drive sharing to **“Anyone with the link can view”**.
@@ -188,3 +188,4 @@ Controls:
 
 - The dataset folder is intentionally excluded from git (`images/` in `.gitignore`).
 - If you plan to publish this repo, avoid committing large datasets and Kaggle ZIPs.
+
